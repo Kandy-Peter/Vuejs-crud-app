@@ -1,5 +1,6 @@
 # first_vue_app
 
+![Screenshot from 2022-11-22 10-02-37](https://user-images.githubusercontent.com/80612925/203259256-3c5aa539-9365-490d-a53d-f6c6dec4d936.png)
 
 
 ## Recommended IDE Setup
